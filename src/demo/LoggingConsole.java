@@ -4,7 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /***
- * Section 26 Lecture 145
+ * Section 26 Lecture 146
  * Using configuration file
  * 
  * @author juanl
