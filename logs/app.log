@@ -1,3 +1,7 @@
-11:12:29.444 DEBUG LoggingFile -Debug Message Logged
-11:12:29.446 ERROR LoggingFile -Error Message Logged
-11:12:29.446 FATAL LoggingFile -Fatal Message Logged
+14:44:43.815 INFO  letskodeit.LoggingFile -Info Message Logged
+14:44:43.815 ERROR letskodeit.LoggingFile -Error Message Logged
+14:44:43.815 FATAL letskodeit.LoggingFile -Fatal Message Logged
+14:44:51.508 DEBUG demo.LoggingDemo -Debug Message Logged
+14:44:51.508 INFO  demo.LoggingDemo -Info Message Logged
+14:44:51.508 ERROR demo.LoggingDemo -Error Message Logged
+14:44:51.508 FATAL demo.LoggingDemo -Fatal Message Logged
