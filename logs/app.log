@@ -5,3 +5,4 @@
 14:44:51.508 INFO  demo.LoggingDemo -Info Message Logged
 14:44:51.508 ERROR demo.LoggingDemo -Error Message Logged
 14:44:51.508 FATAL demo.LoggingDemo -Fatal Message Logged
+21:54:27.664 INFO  demo.TestNG_TestCase -This message is from test method

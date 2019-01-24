@@ -5,5 +5,13 @@
 	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="lib" path="C:/apache-log4j-2.11.1-bin/log4j-api-2.11.1.jar"/>
 	<classpathentry kind="lib" path="C:/apache-log4j-2.11.1-bin/log4j-core-2.11.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/selenium/client-combined-3.141.5.jar" sourcepath="C:/selenium/client-combined-3.141.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/client-combined-3.141.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
